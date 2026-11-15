@@ -5,7 +5,7 @@ import { configIncomplete, forumConfig, themeCss } from '$lib/config';
 // defaults, repo fallback applied, theme compiled.
 describe('resolved config', () => {
 	it('merges the root forum.config.ts over defaults', () => {
-		expect(forumConfig.repo.owner).toBe('NotReeceHarris');
+		expect(resolved.repo.owner).toBe('TechAdityaBRO');;
 		expect(forumConfig.repo.name).toBe('discussion-kit');
 		expect(forumConfig.site.name).toBe('Discussion Kit');
 		// default that forum.config.ts does not override
