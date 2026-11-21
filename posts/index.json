@@ -1,0 +1,49 @@
+{
+	"archivedAt": "2026-11-21T14:30:45.311Z",
+	"discussions": [
+		{
+			"id": "D_kwDOVuV5Ls4ArKWQ",
+			"number": 2,
+			"title": "Guess About Me",
+			"body": "Whis is my name",
+			"createdAt": "2026-11-15T11:21:02Z",
+			"upvoteCount": 1,
+			"author": {
+				"login": "admin",
+				"avatarUrl": "https://avatars.githubusercontent.com/u/10137?u=b1951d34a583cf12ec0d3b0781ba19be97726318&v=4",
+				"url": "https://github.com/admin"
+			},
+			"category": {
+				"id": "DIC_kwDOVuV5Ls4DLIGO",
+				"name": "Q&A",
+				"slug": "q-a",
+				"emojiHTML": "<div>🙏</div>"
+			},
+			"comments": {
+				"totalCount": 0
+			}
+		},
+		{
+			"id": "D_kwDOVuV5Ls4ArKWE",
+			"number": 1,
+			"title": "Hello 👋 , Welcome to Chat",
+			"body": "Welcome to chat by @TechAdityaBRO",
+			"createdAt": "2026-11-15T11:18:55Z",
+			"upvoteCount": 1,
+			"author": {
+				"login": "TechAdityaBRO",
+				"avatarUrl": "https://avatars.githubusercontent.com/u/273487397?u=6603182f6835adedef28b3dc668536ef96ebfa47&v=4",
+				"url": "https://github.com/TechAdityaBRO"
+			},
+			"category": {
+				"id": "DIC_kwDOVuV5Ls4DLIGM",
+				"name": "Announcements",
+				"slug": "announcements",
+				"emojiHTML": "<div>📣</div>"
+			},
+			"comments": {
+				"totalCount": 1
+			}
+		}
+	]
+}
