@@ -1,0 +1,77 @@
+{
+	"archivedAt": "2026-11-28T06:43:12.711Z",
+	"categories": [
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGM",
+			"name": "Announcements",
+			"slug": "announcements",
+			"emojiHTML": "<div>📣</div>",
+			"description": "Updates from maintainers",
+			"isAnswerable": false
+		},
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGN",
+			"name": "General",
+			"slug": "general",
+			"emojiHTML": "<div>💬</div>",
+			"description": "Chat about anything and everything here",
+			"isAnswerable": false
+		},
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGP",
+			"name": "Ideas",
+			"slug": "ideas",
+			"emojiHTML": "<div>💡</div>",
+			"description": "Share ideas for new features",
+			"isAnswerable": false
+		},
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGR",
+			"name": "Polls",
+			"slug": "polls",
+			"emojiHTML": "<div>🗳️</div>",
+			"description": "Take a vote from the community",
+			"isAnswerable": false
+		},
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGO",
+			"name": "Q&A",
+			"slug": "q-a",
+			"emojiHTML": "<div>🙏</div>",
+			"description": "Ask the community for help",
+			"isAnswerable": true
+		},
+		{
+			"id": "DIC_kwDOVuV5Ls4DLIGQ",
+			"name": "Show and tell",
+			"slug": "show-and-tell",
+			"emojiHTML": "<div>🙌</div>",
+			"description": "Show off something you've made",
+			"isAnswerable": false
+		}
+	],
+	"pinned": [
+		{
+			"id": "D_kwDOVuV5Ls4ArKWE",
+			"number": 1,
+			"title": "Hello 👋 , Welcome to Chat",
+			"body": "Welcome to chat by @TechAdityaBRO",
+			"createdAt": "2026-11-15T11:18:55Z",
+			"upvoteCount": 1,
+			"author": {
+				"login": "TechAdityaBRO",
+				"avatarUrl": "https://avatars.githubusercontent.com/u/273487397?u=6603182f6835adedef28b3dc668536ef96ebfa47&v=4",
+				"url": "https://github.com/TechAdityaBRO"
+			},
+			"category": {
+				"id": "DIC_kwDOVuV5Ls4DLIGM",
+				"name": "Announcements",
+				"slug": "announcements",
+				"emojiHTML": "<div>📣</div>"
+			},
+			"comments": {
+				"totalCount": 1
+			}
+		}
+	]
+}

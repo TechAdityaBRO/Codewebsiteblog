@@ -1,0 +1,92 @@
+{
+	"id": "D_kwDOVuV5Ls4ArKWQ",
+	"number": 2,
+	"title": "Guess About Me",
+	"body": "Whis is my name",
+	"bodyHTML": "<p dir=\"auto\">Whis is my name</p>",
+	"url": "https://github.com/TechAdityaBRO/Codewebsiteblog/discussions/2",
+	"createdAt": "2026-11-15T11:21:02Z",
+	"lastEditedAt": "2026-11-15T11:21:13Z",
+	"upvoteCount": 1,
+	"viewerHasUpvoted": false,
+	"locked": false,
+	"author": {
+		"login": "admin",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/10137?u=b1951d34a583cf12ec0d3b0781ba19be97726318&v=4",
+		"url": "https://github.com/admin"
+	},
+	"category": {
+		"id": "DIC_kwDOVuV5Ls4DLIGO",
+		"name": "Q&A",
+		"slug": "q-a",
+		"emojiHTML": "<div>🙏</div>",
+		"description": "Ask the community for help",
+		"isAnswerable": true
+	},
+	"reactionGroups": [
+		{
+			"content": "THUMBS_UP",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "THUMBS_DOWN",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "LAUGH",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "HOORAY",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "CONFUSED",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "HEART",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "ROCKET",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		},
+		{
+			"content": "EYES",
+			"viewerHasReacted": false,
+			"reactors": {
+				"totalCount": 0
+			}
+		}
+	],
+	"comments": {
+		"totalCount": 0,
+		"pageInfo": {
+			"endCursor": null,
+			"hasNextPage": false
+		},
+		"nodes": []
+	}
+}
